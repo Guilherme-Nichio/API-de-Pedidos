@@ -28,5 +28,4 @@ O sistema permite **criar pedidos**, **listar todos os pedidos**, **ver o próxi
 
 ---
 
-## 🧱 Estrutura do Projeto
 
